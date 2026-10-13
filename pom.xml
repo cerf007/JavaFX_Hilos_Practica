@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                ni.edu.uam.practicahilos.javafx_hilos_practica/ni.edu.uam.practicahilos.javafx_hilos_practica.HelloApplication
+                                ni.edu.uam.practicahilos.javafx_hilos_practica/ni.edu.uam.practicahilos.javafx_hilos_practica.MainApp
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
